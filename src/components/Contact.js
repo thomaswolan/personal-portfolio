@@ -3,8 +3,7 @@ import { Container, Row, Col } from "react-bootstrap";
 import 'animate.css';
 import TrackVisibility from 'react-on-screen';
 import contactImg from "../assets/img/contact.png";
-import navIcon1 from '../assets/img/nav-icon1.svg'; // LinkedIn icon
-import { HashLink } from 'react-router-hash-link';
+
 
 export const Contact = () => {
   return (
