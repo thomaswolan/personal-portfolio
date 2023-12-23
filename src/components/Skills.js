@@ -14,10 +14,9 @@ export const Skills = () => {
                   <h2>About Me</h2>
                   <p>
                   Hey! I'm Thomas Wolan, a sophomore in computer Science at Virginia Tech. I have a passion for learning new things and expanding my knowledge, as shown by my recent creation of this website. I'm currently on the lookout for internship opportunities to further develop my skills. Beyond programming, I have a love for traveling the world, listening to all kinds of music, and following my favorite sports teams. Feel free to explore my website!
-
                   </p>
                 </div>
-                <img src={myImage} alt="My Image" className="right-aligned-image" />
+                <img src={myImage} className="right-aligned-image" />
               </div>
             </div>
           </div>
